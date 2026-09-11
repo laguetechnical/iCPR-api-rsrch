@@ -1,0 +1,132 @@
+clicking this next button shows no graphql api request nor any other request lol , 
+i think only after: Are you the rights owner? , Country it stores api request 
+each time i choose any radio button in the Are you the rights owner? it shows What is the name of the rights owner? empty input bar !! and next button gets enabled only if text is entered in input bar.
+
+the payload for api request that shows clicking any radio button i got :
+
+av=0&__user=0&__a=1&__req=t&__hs=20707.HYP%3Acomet_plat_default_pkg.2.1...0&dpr=1&__ccg=EXCELLENT&__rev=1047326227&__s=%3A2bci4k%3Ax85c89&__hsi=7684358365936881643&__dyn=7xeUmwlEnwn8K2Wmh0no6u5U4e0yoW3q32360CEbo19oe8hw2nVE4W099w8G1Dz81s8hwnU2lwv89k2C1Fwc60D82IzXwae4UaEW0Loco5G0zK1swa-0raazo11E2ZwrUdUco9E3Lwr86ii1nw4xxW1ow8q0JU0Vy3m&__csr=igFscnq8AyN5iiQIYA8iXvAQGiv-ztkBERmABmHBqJOriBp97L-rbJbTmlderOenKR4Kkx9ehaJ9aR_FniWCBjHEDAGblUBd95auECFG-V8y6k3u3icgx5x2eCCK9U4u1Yxq68bpUmwWwq9US5EmG10zUeorwOKcws82RwQw8q2a0Lopxu0w82kBxd0mE2Hw8m3e2ei17w51wf-0aCzU1oUpgfo3Tw0xZw3zo00H5O0kJw0DsU0Wu0CU06uy02hF0&__hsdp=ge91acFVER1Ku8ejxFx11a3209Hw3lUbUiho9o3Ww1EkE1nU06Z200LJU09A8&__hblp=0d-3205x81Oo0qHw5xw1FO06183vw2lE1pU0i8w5yw4xw2Q82Mw0FWw0Nkw0Pkw0EFw7Ew1Ci0r20nG0czwfq2Xwk8ow0_YxS&__sjsp=gdkNcXaFVER1K4j6xF151a3209Hw3lUbUiho9o3Ww1EkE1nU&__comet_req=113&lsd=AdSm2P6LUcxfqdh0TqnedITmv7E&jazoest=22404&__spin_r=1047326227&__spin_b=trunk&__spin_t=1789154104&__crn=comet.unhelp.UNHelpCIPJourneyPageRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=CIPConditionalSelectorElementQuery&server_timestamps=true&variables=%7B%22section_id%22%3A%221301445625145340%22%2C%22option_id%22%3A%221472029181237036%22%7D&doc_id=28367534986199350  
+
+on click of next button it shows second screen/tab/window idk but page url is same :
+entering url or target showed me request :
+
+av=0&__user=0&__a=1&__req=11&__hs=20707.HYP%3Acomet_plat_default_pkg.2.1...0&dpr=1&__ccg=EXCELLENT&__rev=1047326227&__s=%3A2bci4k%3Ax85c89&__hsi=7684358365936881643&__dyn=7xeUmwlEnwn8K2Wmh0no6u5U4e0yoW3q32360CEbo19oe8hw2nVE4W099w8G1Dz81s8hwnU2lwv89k2C1Fwc60D82IzXwae4UaEW0Loco5G0zK1swa-0raazo11E2ZwrUdUco9E3Lwr86ii1nw4xxW1ow8q0JU0Vy3m&__csr=igFscnq8AyN5iiQIYA8iXvAQGiv-ztkBERmABmHBqJOriBp97L-rbJbTmlderOenKR4Kkx9ehaJ9aR_FniWCBjHEDAGblUBd95auECFG-V8y6k3u3icgx5x2eCCK9U4u1Yxq68bpUmwWwq9US5EmG10zUeorwOKcws82RwQw8q2a0Lopxu0w82kBxd0mE2Hw8m3e2ei17w51wf-0aCzU1oUpgfo3Tw0xZw3zo00H5O0kJw0DsU0Wu0CU06uy02hF0&__hsdp=ge91acFVER1Ku8ejxFx11a3209Hw3lUbUiho9o3Ww1EkE1nU04k202E-00LJU09A8&__hblp=0d-3205x81Oo0qHw5xw1FO06183vw2lE1pU0i8w5yw4xw2Q82Mw0FWw0Nkw0Pkw0EFw7Ew1Ci0r20nG0czwfq2Xwk8ow0_YxS&__sjsp=gdkNcXaFVER1K4j6xF151a3209Hw3lUbUiho9o3Ww1EkE1nU04k2&__comet_req=113&lsd=AdSm2P6LUcxfqdh0TqnedITmv7E&jazoest=22404&__spin_r=1047326227&__spin_b=trunk&__spin_t=1789154104&__crn=comet.unhelp.UNHelpCIPJourneyPageRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=useCIPValidateMetaAssetMutation&server_timestamps=true&variables=%7B%22input%22%3A%7B%22actor_id%22%3A%220%22%2C%22client_mutation_id%22%3A%227%22%2C%22input_data%22%3A%22instagram.com%2Fp%2Ftest%22%2C%22journey_id%22%3A%221523801815366035%22%2C%22workspace_version_element_id%22%3A%22920035664343719%22%7D%7D&doc_id=24789365157347449  
+
+entering : Provide an example of your copyrighted work that you believe has been infringed , didnt made any request visible , entering : Describe how you believe that this content infringes your intellectual property rights also didnt made any req visible, 
+entering email and confirm email , then clicking "request code button" showed this api req :
+
+av=0&__user=0&__a=1&__req=12&__hs=20707.HYP%3Acomet_plat_default_pkg.2.1...0&dpr=1&__ccg=EXCELLENT&__rev=1047326227&__s=%3A2bci4k%3Ax85c89&__hsi=7684358365936881643&__dyn=7xeUmwlEnwn8K2Wmh0no6u5U4e0yoW3q32360CEbo19oe8hw2nVE4W099w8G1Dz81s8hwnU2lwv89k2C1Fwc60D82IzXwae4UaEW0Loco5G0zK1swa-0raazo11E2ZwrUdUco9E3Lwr86ii1nw4xxW1ow8q0JU0Vy3m&__csr=igFscnq8AyN5iiQIYA8iXvAQGiv-ztkBERmABmHBqJOriBp97L-rbJbTmlderOenKR4Kkx9ehaJ9aR_FniWCBjHEDAGblUBd95auECFG-V8y6k3u3icgx5x2eCCK9U4u1Yxq68bpUmwWwq9US5EmG10zUeorwOKcws82RwQw8q2a0Lopxu0w82kBxd0mE2Hw8m3e2ei17w51wf-0aCzU1oUpgfo3Tw0xZw3zo00H5O0kJw0DsU0Wu0CU06uy02hF0&__hsdp=ge91acFVER1Ku8ejxFx11a3209Hw3lUbUiho9o3Ww1EkE1nU04k202E-00LJU09A8&__hblp=0d-3205x81Oo0qHw5xw1FO06183vw2lE1pU0i8w5yw4xw2Q82Mw0FWw0Nkw0Pkw0EFw7Ew1Ci0r20nG0czwfq2Xwk8ow0_YxS&__sjsp=gdkNcXaFVER1K4j6xF151a3209Hw3lUbUiho9o3Ww1EkE1nU04k2&__comet_req=113&lsd=AdSm2P6LUcxfqdh0TqnedITmv7E&jazoest=22404&__spin_r=1047326227&__spin_b=trunk&__spin_t=1789154104&__crn=comet.unhelp.UNHelpCIPJourneyPageRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=useCIPSendEmailOTPMutation&server_timestamps=true&variables=%7B%22input%22%3A%7B%22actor_id%22%3A%220%22%2C%22client_mutation_id%22%3A%228%22%2C%22email%22%3A%22wkcyberguard%40hi2.in%22%2C%22form_element%22%3A%22966688919591015%22%2C%22journey%22%3A%221523801815366035%22%7D%7D&doc_id=24559506796982506  
+
+i wrote verification code of 6 numbers and it confirmed automatically means no need to click any submit button for otp if otp is correct , the request i got :
+av=0&__user=0&__a=1&__req=13&__hs=20707.HYP%3Acomet_plat_default_pkg.2.1...0&dpr=1&__ccg=EXCELLENT&__rev=1047326227&__s=%3A2bci4k%3Ax85c89&__hsi=7684358365936881643&__dyn=7xeUmwlEnwn8K2Wmh0no6u5U4e0yoW3q32360CEbo19oe8hw2nVE4W099w8G1Dz81s8hwnU2lwv89k2C1Fwc60D82IzXwae4UaEW0Loco5G0zK1swa-0raazo11E2ZwrUdUco9E3Lwr86ii1nw4xxW1ow8q0JU0Vy3m&__csr=igFscnq8AyN5iiQIYA8iXvAQGiv-ztkBERmABmHBqJOriBp97L-rbJbTmlderOenKR4Kkx9ehaJ9aR_FniWCBjHEDAGblUBd95auECFG-V8y6k3u3icgx5x2eCCK9U4u1Yxq68bpUmwWwq9US5EmG10zUeorwOKcws82RwQw8q2a0Lopxu0w82kBxd0mE2Hw8m3e2ei17w51wf-0aCzU1oUpgfo3Tw0xZw3zo00H5O0kJw0DsU0Wu0CU06uy02hF0&__hsdp=ge91acFVER1Ku8ejxFx11a3209Hw3lUbUiho9o3Ww1EkE1nU04k202E-00LJU09A8&__hblp=0d-3205x81Oo0qHw5xw1FO06183vw2lE1pU0i8w5yw4xw2Q82Mw0FWw0Nkw0Pkw0EFw7Ew1Ci0r20nG0czwfq2Xwk8ow0_YxS&__sjsp=gdkNcXaFVER1K4j6xF151a3209Hw3lUbUiho9o3Ww1EkE1nU04k2&__comet_req=113&lsd=AdSm2P6LUcxfqdh0TqnedITmv7E&jazoest=22404&__spin_r=1047326227&__spin_b=trunk&__spin_t=1789154104&__crn=comet.unhelp.UNHelpCIPJourneyPageRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=useCIPValidateEmailOTPMutation&server_timestamps=true&variables=%7B%22input%22%3A%7B%22actor_id%22%3A%220%22%2C%22client_mutation_id%22%3A%229%22%2C%22email%22%3A%22wkcyberguard%40hi2.in%22%2C%22journey%22%3A%221523801815366035%22%2C%22nonce%22%3A%7B%22sensitive_string_value%22%3A%22845735%22%7D%7D%7D&doc_id=9495403743915742
+
+after this request , submit button gets enabled !! on click i saw many requests , :
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="av"
+
+0
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__user"
+
+0
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__a"
+
+1
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__req"
+
+14
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__hs"
+
+20707.HYP:comet_plat_default_pkg.2.1...0
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="dpr"
+
+1
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__ccg"
+
+EXCELLENT
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__rev"
+
+1047326227
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__s"
+
+:2bci4k:x85c89
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__hsi"
+
+7684358365936881643
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__dyn"
+
+7xeUmwlEnwn8K2Wmh0no6u5U4e0yoW3q32360CEbo19oe8hw2nVE4W099w8G1Dz81s8hwnU2lwv89k2C1Fwc60D82IzXwae4UaEW0Loco5G0zK1swa-0raazo11E2ZwrUdUco9E3Lwr86ii1nw4xxW1ow8q0JU0Vy3m
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__csr"
+
+igFscnq8AyN5iiQIYA8iXvAQGiv-ztkBERmABmHBqJOriBp97L-rbJbTmlderOenKR4Kkx9ehaJ9aR_FniWCBjHEDAGblUBd95auECFG-V8y6k3u3icgx5x2eCCK9U4u1Yxq68bpUmwWwq9US5EmG10zUeorwOKcws82RwQw8q2a0Lopxu0w82kBxd0mE2Hw8m3e2ei17w51wf-0aCzU1oUpgfo3Tw0xZw3zo00H5O0kJw0DsU0Wu0CU06uy02hF0
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__hsdp"
+
+ge91acFVER1Ku8ejxFx11a3209Hw3lUbUiho9o3Ww1EkE1nU04k202E-00LJU09A8
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__hblp"
+
+0d-3205x81Oo0qHw5xw1FO06183vw2lE1pU0i8w5yw4xw2Q82Mw0FWw0Nkw0Pkw0EFw7Ew1Ci0r20nG0czwfq2Xwk8ow0_YxS
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__sjsp"
+
+gdkNcXaFVER1K4j6xF151a3209Hw3lUbUiho9o3Ww1EkE1nU04k2
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__comet_req"
+
+113
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="lsd"
+
+AdSm2P6LUcxfqdh0TqnedITmv7E
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="jazoest"
+
+22404
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__spin_r"
+
+1047326227
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__spin_b"
+
+trunk
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__spin_t"
+
+1789154104
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="__crn"
+
+comet.unhelp.UNHelpCIPJourneyPageRoute
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="fb_api_caller_class"
+
+RelayModern
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="fb_api_req_friendly_name"
+
+useCIPSubmitFormMutation
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="server_timestamps"
+
+true
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="variables"
+
+{"input":{"actor_id":"0","client_mutation_id":"10","canvas_id":"21bdfc39dab0d188f1f0de28ec80780a7296c7405099973833153ba96b919bda","captcha":{},"email_verification_nonces":[{"element_id":"1271533121857228","nonce":{"sensitive_string_value":"845735"}}],"form_data":[{"element_id":"4609932332608985","element_name":"claim_type","label":"What right is being violated or infringed?","value":"IP_COPYRIGHT"},{"element_id":"1792938001748231","element_name":"platform_copyright","label":"Select the platform where the content you wish to report is located","value":"INSTAGRAM_CORE"},{"element_id":"2266239047116131","element_name":"ro_country_cr","label":"Where are you asserting rights?","section_id":"1003783036013153","value":"IN"},{"element_id":"949281440788116","element_name":"ro_cr","label":"Are you the rights owner?","section_id":"1003783036013153","value":"Yes"},{"element_id":"1852309948728623","element_name":"ro_name","label":"What is the name of the rights owner?","section_id":"1301445625145340","value":"TEST"},{"element_id":"920035664343719","element_name":"rc_link","label":"Provide the URLs/IDs leading directly to the content you're reporting","section_id":"1513400950340510","value":"instagram.com/p/test"},{"element_id":"2253467651812337","element_name":"ae_meta_link","label":"Provide an example of your copyrighted work that you believe has been infringed","section_id":"1513400950340510","value":"http://instagram.com/p/test22"},{"element_id":"1500551788403776","element_name":"describe_how","label":"Describe how you believe this content infringes your intellectual property rights","section_id":"1513400950340510","value":"test"},{"element_id":"814713464311653","element_name":"court_order","label":"(Optional) If you have a court order deeming the content unlawful, attach it","section_id":"1513400950340510","value":"false"},{"element_id":"897067669596193","element_name":"name","label":"Your full name","section_id":"1513400950340510","value":"TEST"},{"element_id":"1271533121857228","element_name":"email","label":"Your email address","section_id":"1513400950340510","value":"wkcyberguard@hi2.in"},{"element_id":"2971920209671330","element_name":"signature","label":"Electronic signature","section_id":"1513400950340510","value":"TEST"}],"form_version":"2207888186449714","journey_id":"1523801815366035","journey_path_form_versions":[1004836122577522,1358166422748200,"2207888186449714"],"submission_receipt":{"sensitive_string_value":"f6cfabcdc5eee863f1a416effe8c5be1"},"ufo_key":null,"un_form_id":null}}
+------WebKitFormBoundaryU50CAIx5BJvyxSCR
+Content-Disposition: form-data; name="doc_id"
+
+28320026124296171
+------WebKitFormBoundaryU50CAIx5BJvyxSCR--
+also : lsd=AdSm2P6LUcxfqdh0TqnedITmv7E&jazoest=22404
